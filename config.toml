@@ -1,0 +1,20 @@
+baseURL = "https://pa.shoogle.net/panama/"
+languageCode = "es"
+title = "Panamá"
+theme = "ln-base"
+
+disableKinds = ["RSS", "robotsTXT"]
+enableGitInfo = true
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "panama"
+
+[taxonomies]
+  shop = "shops"
+

@@ -1,0 +1,1 @@
+Panamá, oficialmente República de Panamá, es un país ubicado en América Central. Su capital y ciudad más poblada es la Ciudad de Panamá​ limita al norte con el mar Caribe, al sur con el océano Pacífico, al este con Colombia y al oeste con Costa Rica. (Wikipedia)
