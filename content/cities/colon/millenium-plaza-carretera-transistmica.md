@@ -1,5 +1,5 @@
 ---
 title: "Millenium Plaza"
-url: /colon/millenium-plaza/
+url: /colon/millenium-plaza-carretera-transistmica/
 shop: centro comercial
 ---

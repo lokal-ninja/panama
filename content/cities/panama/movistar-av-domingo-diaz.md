@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
-url: /panama/movistar/
+url: /panama/movistar-av-domingo-diaz/
 shop: teléfono móvil
 ---

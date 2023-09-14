@@ -1,5 +1,5 @@
 ---
 title: "Barbería"
-url: /colon/barberia/
+url: /colon/barberia-carretera-transistmica/
 shop: cosméticos
 ---

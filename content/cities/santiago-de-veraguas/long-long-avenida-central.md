@@ -1,5 +1,5 @@
 ---
 title: "Long Long"
-url: /santiago-de-veraguas/long-long/
+url: /santiago-de-veraguas/long-long-avenida-central/
 shop: teléfono móvil
 ---

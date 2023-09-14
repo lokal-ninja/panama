@@ -1,5 +1,5 @@
 ---
 title: "LaCosta"
-url: /panama/lacosta/
+url: /panama/lacosta-av-domingo-diaz/
 shop: ropa
 ---
