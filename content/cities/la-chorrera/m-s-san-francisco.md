@@ -1,5 +1,5 @@
 ---
-title: "M/S. San Francisco"
+title: "M.S. San Francisco"
 url: /la-chorrera/m-s-san-francisco/
-shop: general
+shop: comodidad
 ---
