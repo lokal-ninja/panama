@@ -1,6 +1,6 @@
 ---
 title: San Pablo Viejo
 url: /san-pablo-viejo/
-latitude: 8.438
-longitude: -82.492
+latitude: 8.453
+longitude: -82.502
 ---
