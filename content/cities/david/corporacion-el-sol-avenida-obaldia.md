@@ -1,5 +1,5 @@
 ---
 title: "Corporación El Sol"
-url: /david/corporacion-el-sol/
+url: /david/corporacion-el-sol-avenida-obaldia/
 shop: joyería
 ---

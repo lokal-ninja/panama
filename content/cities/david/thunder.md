@@ -1,5 +1,5 @@
 ---
 title: "Thunder"
 url: /david/thunder/
-shop: general
+shop: piezas de automóviles
 ---

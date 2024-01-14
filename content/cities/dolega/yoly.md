@@ -1,5 +1,5 @@
 ---
 title: "Yoly"
 url: /dolega/yoly/
-shop: general
+shop: comodidad
 ---
