@@ -1,5 +1,5 @@
 ---
 title: "Pintacasa"
-url: /david/pintacasa-avenida-obaldia/
+url: /david/pintacasa-calle-f-sur/
 shop: pintura
 ---
