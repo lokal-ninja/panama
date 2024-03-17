@@ -1,5 +1,5 @@
 ---
-title: "Melo y Cía"
+title: "Melo y Cia"
 url: /colon/melo-y-cia/
-shop: agraria
+shop: grandes almacenes
 ---
