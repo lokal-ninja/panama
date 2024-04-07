@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /santiago-de-veraguas/claro/
-shop: teléfono móvil
+shop: general
 ---
