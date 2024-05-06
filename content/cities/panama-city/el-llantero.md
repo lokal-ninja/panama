@@ -1,5 +1,5 @@
 ---
-title: "El Llantero"
+title: "El llantero"
 url: /panama-city/el-llantero/
-shop: neumáticos
+shop: reparación de automóviles
 ---
