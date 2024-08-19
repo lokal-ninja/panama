@@ -1,5 +1,5 @@
 ---
 title: "Taller Beito"
 url: /david/taller-beito/
-shop: general
+shop: reparación de automóviles
 ---
