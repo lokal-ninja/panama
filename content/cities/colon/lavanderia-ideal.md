@@ -1,5 +1,5 @@
 ---
 title: "Lavanderia Ideal"
 url: /colon/lavanderia-ideal/
-shop: lavandería
+shop: Wäscherei
 ---

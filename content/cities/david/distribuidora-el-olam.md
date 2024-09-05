@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora El Olam"
 url: /david/distribuidora-el-olam/
-shop: mayorista
+shop: Großhandel
 ---

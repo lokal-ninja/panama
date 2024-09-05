@@ -1,5 +1,5 @@
 ---
 title: "King Lee"
 url: /santiago-de-veraguas/king-lee/
-shop: comodidad
+shop: Lebensmittel
 ---

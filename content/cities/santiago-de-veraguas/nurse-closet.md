@@ -1,5 +1,5 @@
 ---
 title: "Nurse Closet"
 url: /santiago-de-veraguas/nurse-closet/
-shop: ropa
+shop: Kleidung
 ---

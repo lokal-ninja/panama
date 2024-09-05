@@ -1,5 +1,5 @@
 ---
 title: "Maternité"
 url: /ciudad-de-panama/maternite/
-shop: ropa
+shop: Kleidung
 ---

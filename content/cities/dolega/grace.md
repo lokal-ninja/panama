@@ -1,5 +1,5 @@
 ---
 title: "Grace"
 url: /dolega/grace/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mafesa"
 url: /pamana-city/mafesa/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Taller Policial"
 url: /chepo/taller-policial/
-shop: reparación de automóviles
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sastrería Ramos"
 url: /la-chorrera/sastreria-ramos/
-shop: general
+shop: Allgemein
 ---

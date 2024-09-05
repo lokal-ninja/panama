@@ -1,5 +1,5 @@
 ---
 title: "Mr. Jones"
 url: /panama-city/mr-jones/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jiaas Salón"
 url: /ciudad-de-panama/jiaas-salon/
-shop: peluquería
+shop: Friseur
 ---

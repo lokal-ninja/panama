@@ -1,5 +1,5 @@
 ---
 title: "Electronica Moreno"
 url: /santiago-de-veraguas/electronica-moreno/
-shop: electrónica
+shop: Elektronik
 ---

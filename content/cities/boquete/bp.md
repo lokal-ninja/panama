@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /boquete/bp/
-shop: hardware
+shop: Eisenwaren
 ---

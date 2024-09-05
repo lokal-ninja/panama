@@ -1,5 +1,5 @@
 ---
 title: "Transportes Ferguson, S.A."
 url: /david/transportes-ferguson-s-a/
-shop: alquiler
+shop: Mieten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Heaven Ropa Americana"
 url: /david/heaven-ropa-americana/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tempo"
 url: /david/tempo/
-shop: ropa
+shop: Kleidung
 ---

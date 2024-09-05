@@ -1,5 +1,5 @@
 ---
 title: "FerreMarket"
 url: /ciudad-de-panama/ferremarket/
-shop: hardware
+shop: Eisenwaren
 ---

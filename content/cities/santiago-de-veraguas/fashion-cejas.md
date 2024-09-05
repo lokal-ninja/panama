@@ -1,5 +1,5 @@
 ---
 title: "Fashion Cejas"
 url: /santiago-de-veraguas/fashion-cejas/
-shop: cosméticos
+shop: Kosmetik
 ---

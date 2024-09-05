@@ -1,5 +1,5 @@
 ---
 title: "Salon"
 url: /panama-city/salon/
-shop: cosméticos
+shop: Kosmetik
 ---

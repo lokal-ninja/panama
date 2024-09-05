@@ -1,5 +1,5 @@
 ---
 title: "Raenco"
 url: /ciudad-de-panama/raenco/
-shop: muebles
+shop: Möbel
 ---

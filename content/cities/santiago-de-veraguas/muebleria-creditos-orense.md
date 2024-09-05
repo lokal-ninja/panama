@@ -1,5 +1,5 @@
 ---
 title: "Mueblería Créditos Orense"
 url: /santiago-de-veraguas/muebleria-creditos-orense/
-shop: muebles
+shop: Möbel
 ---

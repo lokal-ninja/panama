@@ -1,5 +1,5 @@
 ---
 title: "Sittim"
 url: /colon/sittim/
-shop: general
+shop: Allgemein
 ---

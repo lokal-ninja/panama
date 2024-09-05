@@ -1,5 +1,5 @@
 ---
 title: "Mini Super Aleen"
 url: /coronado/mini-super-aleen/
-shop: comodidad
+shop: Lebensmittel
 ---

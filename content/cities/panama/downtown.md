@@ -1,5 +1,5 @@
 ---
 title: "Downtown"
 url: /panama/downtown/
-shop: general
+shop: Allgemein
 ---

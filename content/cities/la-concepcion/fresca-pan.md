@@ -1,5 +1,5 @@
 ---
 title: "Fresca Pan"
 url: /la-concepcion/fresca-pan/
-shop: panadería
+shop: Bäckerei
 ---

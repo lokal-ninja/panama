@@ -1,5 +1,5 @@
 ---
 title: "SIACAP"
 url: /la-chorrera/siacap/
-shop: general
+shop: Allgemein
 ---

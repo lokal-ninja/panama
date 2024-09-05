@@ -1,5 +1,5 @@
 ---
 title: "Decore"
 url: /panama/decore/
-shop: general
+shop: Allgemein
 ---

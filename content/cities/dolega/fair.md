@@ -1,5 +1,5 @@
 ---
 title: "Fair"
 url: /dolega/fair/
-shop: ropa
+shop: Kleidung
 ---

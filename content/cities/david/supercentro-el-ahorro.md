@@ -1,5 +1,5 @@
 ---
 title: "Supercentro El Ahorro"
 url: /david/supercentro-el-ahorro/
-shop: comodidad
+shop: Lebensmittel
 ---

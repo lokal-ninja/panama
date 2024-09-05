@@ -1,5 +1,5 @@
 ---
 title: "Productos Toledano, S.A."
 url: /boquete/productos-toledano-s-a/
-shop: general
+shop: Allgemein
 ---

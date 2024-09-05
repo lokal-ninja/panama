@@ -1,5 +1,5 @@
 ---
 title: "Studio F"
 url: /ciudad-de-panama/studio-f/
-shop: ropa
+shop: Kleidung
 ---

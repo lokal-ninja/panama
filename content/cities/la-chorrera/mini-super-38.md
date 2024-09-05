@@ -1,5 +1,5 @@
 ---
 title: "Mini Super 38"
 url: /la-chorrera/mini-super-38/
-shop: comodidad
+shop: Lebensmittel
 ---

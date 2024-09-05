@@ -1,5 +1,5 @@
 ---
 title: "Acura"
 url: /panama-city/acura/
-shop: coche
+shop: Autohaus
 ---

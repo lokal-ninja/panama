@@ -1,5 +1,5 @@
 ---
 title: "Cosa Boutique"
 url: /san-francisco/cosa-boutique/
-shop: tienda
+shop: Modehaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mercacentro"
 url: /aguadulce/mercacentro/
-shop: centro comercial
+shop: Einkaufszentrum
 ---

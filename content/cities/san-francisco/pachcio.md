@@ -1,5 +1,5 @@
 ---
 title: "Pachcio"
 url: /san-francisco/pachcio/
-shop: general
+shop: Allgemein
 ---

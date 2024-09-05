@@ -1,5 +1,5 @@
 ---
 title: "Puma"
 url: /santiago-de-veraguas/puma/
-shop: ropa
+shop: Kleidung
 ---

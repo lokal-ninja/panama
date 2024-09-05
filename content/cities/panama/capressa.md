@@ -1,5 +1,5 @@
 ---
 title: "Capressa"
 url: /panama/capressa/
-shop: general
+shop: Allgemein
 ---

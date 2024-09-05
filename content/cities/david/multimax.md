@@ -1,5 +1,5 @@
 ---
 title: "Multimax"
 url: /david/multimax/
-shop: electrónica
+shop: Elektronik
 ---

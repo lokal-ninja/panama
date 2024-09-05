@@ -1,5 +1,5 @@
 ---
 title: "Exceso de Equipaje"
 url: /panama/exceso-de-equipaje/
-shop: regalo
+shop: Andenken
 ---

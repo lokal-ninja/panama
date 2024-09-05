@@ -1,5 +1,5 @@
 ---
 title: "Almacén Diamente"
 url: /santa-ana/almacen-diamente/
-shop: general
+shop: Allgemein
 ---

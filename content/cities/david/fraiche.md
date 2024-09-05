@@ -1,5 +1,5 @@
 ---
 title: "Fraiche"
 url: /david/fraiche/
-shop: perfumería
+shop: Parfümerie
 ---

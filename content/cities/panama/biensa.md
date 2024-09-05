@@ -1,5 +1,5 @@
 ---
 title: "Biensa"
 url: /panama/biensa/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Electico's"
 url: /ciudad-de-panama/electicos/
-shop: tienda
+shop: Modehaus
 ---

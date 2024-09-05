@@ -1,5 +1,5 @@
 ---
 title: "Zapas"
 url: /david/zapas/
-shop: cosméticos
+shop: Kosmetik
 ---

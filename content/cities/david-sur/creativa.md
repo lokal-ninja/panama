@@ -1,5 +1,5 @@
 ---
 title: "Creativa"
 url: /david-sur/creativa/
-shop: anime
+shop: Anime
 ---

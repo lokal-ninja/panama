@@ -1,5 +1,5 @@
 ---
 title: "Frutería Mimi"
 url: /ciudad-de-panama/fruteria-mimi/
-shop: frutería
+shop: Gemüse & Obst
 ---

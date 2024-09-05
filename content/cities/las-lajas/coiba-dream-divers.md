@@ -1,5 +1,5 @@
 ---
 title: "coiba dream divers"
 url: /las-lajas/coiba-dream-divers/
-shop: buceo
+shop: Tauchen
 ---

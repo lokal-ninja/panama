@@ -1,5 +1,5 @@
 ---
 title: "Kalush"
 url: /panama-city/kalush/
-shop: general
+shop: Allgemein
 ---

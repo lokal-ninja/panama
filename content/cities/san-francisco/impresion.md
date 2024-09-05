@@ -1,5 +1,5 @@
 ---
 title: "Impresion"
 url: /san-francisco/impresion/
-shop: general
+shop: Allgemein
 ---

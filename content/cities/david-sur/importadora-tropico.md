@@ -1,5 +1,5 @@
 ---
 title: "Importadora Tropico"
 url: /david-sur/importadora-tropico/
-shop: muebles
+shop: Möbel
 ---

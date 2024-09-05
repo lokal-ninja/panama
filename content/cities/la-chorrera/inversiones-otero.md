@@ -1,5 +1,5 @@
 ---
 title: "Inversiones Otero"
 url: /la-chorrera/inversiones-otero/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "súper centro California"
 url: /plaza-caisan/super-centro-california/
-shop: comodidad
+shop: Lebensmittel
 ---

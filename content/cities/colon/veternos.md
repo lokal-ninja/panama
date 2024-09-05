@@ -1,5 +1,5 @@
 ---
 title: "Veternos"
 url: /colon/veternos/
-shop: general
+shop: Allgemein
 ---

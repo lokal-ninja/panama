@@ -1,5 +1,5 @@
 ---
 title: "Platinum Sport"
 url: /la-chorrera/platinum-sport/
-shop: deportes
+shop: Sport
 ---

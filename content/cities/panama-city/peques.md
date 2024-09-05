@@ -1,5 +1,5 @@
 ---
 title: "Peques"
 url: /panama-city/peques/
-shop: ropa
+shop: Kleidung
 ---

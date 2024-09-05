@@ -1,5 +1,5 @@
 ---
 title: "Sala de Belleza Morenita"
 url: /panama-city/sala-de-belleza-morenita/
-shop: cosméticos
+shop: Kosmetik
 ---

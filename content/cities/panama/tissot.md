@@ -1,5 +1,5 @@
 ---
 title: "Tissot"
 url: /panama/tissot/
-shop: joyería
+shop: Schmuck
 ---

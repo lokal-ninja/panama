@@ -1,5 +1,5 @@
 ---
 title: "Carspot"
 url: /panama/carspot/
-shop: coche
+shop: Autohaus
 ---

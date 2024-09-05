@@ -1,5 +1,5 @@
 ---
 title: "Factory Peluqueria"
 url: /la-chorrera/factory-peluqueria/
-shop: cosméticos
+shop: Kosmetik
 ---

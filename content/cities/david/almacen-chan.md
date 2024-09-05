@@ -1,5 +1,5 @@
 ---
 title: "Almacén Chan"
 url: /david/almacen-chan/
-shop: general
+shop: Allgemein
 ---

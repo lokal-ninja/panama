@@ -1,5 +1,5 @@
 ---
 title: "Lavamatico Super Clean"
 url: /boquete/lavamatico-super-clean/
-shop: lavandería
+shop: Wäscherei
 ---

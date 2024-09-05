@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Micky"
 url: /volcan/ferreteria-micky/
-shop: hardware
+shop: Eisenwaren
 ---

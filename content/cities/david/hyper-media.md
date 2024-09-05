@@ -1,5 +1,5 @@
 ---
 title: "Hyper Media"
 url: /david/hyper-media/
-shop: ordenador
+shop: Computer
 ---

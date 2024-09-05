@@ -1,5 +1,5 @@
 ---
 title: "Panama Safety"
 url: /david/panama-safety/
-shop: tienda
+shop: Modehaus
 ---

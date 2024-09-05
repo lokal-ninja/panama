@@ -1,5 +1,5 @@
 ---
 title: "Repuestos 2008"
 url: /david/repuestos-2008/
-shop: piezas de automóviles
+shop: Autoteile
 ---

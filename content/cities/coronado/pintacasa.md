@@ -1,5 +1,5 @@
 ---
 title: "Pintacasa"
 url: /coronado/pintacasa/
-shop: pintura
+shop: Farben
 ---

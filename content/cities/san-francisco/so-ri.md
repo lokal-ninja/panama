@@ -1,5 +1,5 @@
 ---
 title: "So Ri"
 url: /san-francisco/so-ri/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dormicenter"
 url: /ciudad-de-panama/dormicenter/
-shop: cama
+shop: Betten
 ---

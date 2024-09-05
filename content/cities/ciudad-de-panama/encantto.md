@@ -1,5 +1,5 @@
 ---
 title: "Encantto"
 url: /ciudad-de-panama/encantto/
-shop: muebles
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Office Copy"
 url: /santiago-de-veraguas/office-copy/
-shop: copyshop
+shop: Kopieren
 ---

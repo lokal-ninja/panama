@@ -1,5 +1,5 @@
 ---
 title: "Correcamino"
 url: /la-chorrera/correcamino/
-shop: neumáticos
+shop: Reifen
 ---

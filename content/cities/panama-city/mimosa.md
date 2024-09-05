@@ -1,5 +1,5 @@
 ---
 title: "MImosa"
 url: /panama-city/mimosa/
-shop: general
+shop: Allgemein
 ---

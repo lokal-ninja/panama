@@ -1,5 +1,5 @@
 ---
 title: "Supermercado La Fortuna"
 url: /la-chorrera/supermercado-la-fortuna/
-shop: supermercado
+shop: Supermarkt
 ---

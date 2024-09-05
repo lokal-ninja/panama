@@ -1,5 +1,5 @@
 ---
 title: "Barbería Edgardo"
 url: /el-chorrillo/barberia-edgardo/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cochez"
 url: /coronado/cochez/
-shop: hardware
+shop: Eisenwaren
 ---

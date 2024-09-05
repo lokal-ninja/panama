@@ -1,5 +1,5 @@
 ---
 title: "LiftMaster"
 url: /david/liftmaster/
-shop: general
+shop: Allgemein
 ---

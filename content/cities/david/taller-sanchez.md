@@ -1,5 +1,5 @@
 ---
 title: "Taller Sánchez"
 url: /david/taller-sanchez/
-shop: general
+shop: Allgemein
 ---

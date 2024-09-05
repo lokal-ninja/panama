@@ -1,5 +1,5 @@
 ---
 title: "Ofertas Cardona"
 url: /la-chorrera/ofertas-cardona/
-shop: general
+shop: Allgemein
 ---

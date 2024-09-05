@@ -1,5 +1,5 @@
 ---
 title: "Vivendi"
 url: /panama/vivendi/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "American Colors"
 url: /la-chorrera/american-colors/
-shop: pintura
+shop: Farben
 ---

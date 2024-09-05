@@ -1,5 +1,5 @@
 ---
 title: "Carnicentro"
 url: /la-chorrera/carnicentro/
-shop: carnicero
+shop: Metzgerei
 ---

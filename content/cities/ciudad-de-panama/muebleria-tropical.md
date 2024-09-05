@@ -1,5 +1,5 @@
 ---
 title: "Muebleria Tropical"
 url: /ciudad-de-panama/muebleria-tropical/
-shop: muebles
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Excelente"
 url: /panama-city/distribuidora-excelente/
-shop: general
+shop: Allgemein
 ---

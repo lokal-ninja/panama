@@ -1,5 +1,5 @@
 ---
 title: "Rodelag"
 url: /david/rodelag/
-shop: electrónica
+shop: Elektronik
 ---

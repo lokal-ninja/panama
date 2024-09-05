@@ -1,5 +1,5 @@
 ---
 title: "Implosa Design"
 url: /panama-city/implosa-design/
-shop: muebles
+shop: Möbel
 ---

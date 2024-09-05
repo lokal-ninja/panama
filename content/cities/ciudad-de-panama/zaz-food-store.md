@@ -1,5 +1,5 @@
 ---
 title: "ZAZ Food Store"
 url: /ciudad-de-panama/zaz-food-store/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Glamour"
 url: /colon/glamour/
-shop: cosméticos
+shop: Kosmetik
 ---

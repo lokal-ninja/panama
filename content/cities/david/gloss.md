@@ -1,5 +1,5 @@
 ---
 title: "Gloss"
 url: /david/gloss/
-shop: tienda
+shop: Modehaus
 ---

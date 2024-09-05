@@ -1,5 +1,5 @@
 ---
 title: "Kioto"
 url: /panama/kioto/
-shop: bicicleta
+shop: Fahrrad
 ---

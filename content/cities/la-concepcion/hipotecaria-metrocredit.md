@@ -1,5 +1,5 @@
 ---
 title: "Hipotecaria Metrocredit"
 url: /la-concepcion/hipotecaria-metrocredit/
-shop: prestamista
+shop: Leiher
 ---

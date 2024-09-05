@@ -1,5 +1,5 @@
 ---
 title: "Wurth"
 url: /panama-city/wurth/
-shop: hardware
+shop: Eisenwaren
 ---

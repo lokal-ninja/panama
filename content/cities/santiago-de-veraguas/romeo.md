@@ -1,5 +1,5 @@
 ---
 title: "Romeo"
 url: /santiago-de-veraguas/romeo/
-shop: joyería
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PostNet"
 url: /david/postnet/
-shop: copyshop
+shop: Kopieren
 ---

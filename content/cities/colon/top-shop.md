@@ -1,5 +1,5 @@
 ---
 title: "Top Shop"
 url: /colon/top-shop/
-shop: ropa
+shop: Kleidung
 ---

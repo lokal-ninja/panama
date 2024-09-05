@@ -1,5 +1,5 @@
 ---
 title: "Michelin"
 url: /coronado/michelin/
-shop: neumáticos
+shop: Reifen
 ---

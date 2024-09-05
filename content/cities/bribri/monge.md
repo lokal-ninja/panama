@@ -1,5 +1,5 @@
 ---
 title: "Monge"
 url: /bribri/monge/
-shop: electrónica
+shop: Elektronik
 ---

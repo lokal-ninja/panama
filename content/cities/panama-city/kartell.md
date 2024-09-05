@@ -1,5 +1,5 @@
 ---
 title: "Kartell"
 url: /panama-city/kartell/
-shop: general
+shop: Allgemein
 ---

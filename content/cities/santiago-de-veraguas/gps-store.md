@@ -1,5 +1,5 @@
 ---
 title: "GPS Store"
 url: /santiago-de-veraguas/gps-store/
-shop: electrónica
+shop: Elektronik
 ---

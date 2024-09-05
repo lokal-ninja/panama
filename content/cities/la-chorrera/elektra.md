@@ -1,5 +1,5 @@
 ---
 title: "Elektra"
 url: /la-chorrera/elektra/
-shop: electrónica
+shop: Elektronik
 ---

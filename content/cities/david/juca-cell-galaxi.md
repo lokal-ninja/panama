@@ -1,5 +1,5 @@
 ---
 title: "juca cell galaxi"
 url: /david/juca-cell-galaxi/
-shop: comodidad
+shop: Lebensmittel
 ---

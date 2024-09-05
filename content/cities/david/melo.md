@@ -1,5 +1,5 @@
 ---
 title: "Melo"
 url: /david/melo/
-shop: mascotas
+shop: Tiere
 ---

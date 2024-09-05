@@ -1,5 +1,5 @@
 ---
 title: "Casa Liu"
 url: /santa-ana/casa-liu/
-shop: general
+shop: Allgemein
 ---

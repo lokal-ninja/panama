@@ -1,5 +1,5 @@
 ---
 title: "Tambor"
 url: /david-sur/tambor/
-shop: neumáticos
+shop: Reifen
 ---

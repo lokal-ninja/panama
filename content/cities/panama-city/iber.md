@@ -1,5 +1,5 @@
 ---
 title: "Iber"
 url: /panama-city/iber/
-shop: joyería
+shop: Schmuck
 ---

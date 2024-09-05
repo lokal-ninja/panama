@@ -1,5 +1,5 @@
 ---
 title: "MetroX"
 url: /la-chorrera/metrox/
-shop: general
+shop: Allgemein
 ---

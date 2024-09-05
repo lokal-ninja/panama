@@ -1,5 +1,5 @@
 ---
 title: "Lavandería Willy"
 url: /la-chorrera/lavanderia-willy/
-shop: lavandería
+shop: Wäscherei
 ---
