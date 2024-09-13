@@ -1,5 +1,5 @@
 ---
 title: "Autocar Solutions"
 url: /la-concepcion/autocar-solutions/
-shop: Autoteile
+shop: piezas de automóviles
 ---

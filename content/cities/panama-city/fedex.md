@@ -1,5 +1,5 @@
 ---
 title: "FedEx"
 url: /panama-city/fedex/
-shop: Schreibwaren
+shop: material de oficina
 ---

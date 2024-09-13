@@ -1,5 +1,5 @@
 ---
 title: "Floristería Lisardy"
 url: /la-chorrera/floristeria-lisardy/
-shop: Blumen
+shop: floristería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Riana"
 url: /santiago-de-veraguas/riana/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Librería San Pablo"
 url: /david/libreria-san-pablo/
-shop: Bücher
+shop: libros
 ---

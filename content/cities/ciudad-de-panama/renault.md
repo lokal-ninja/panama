@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /ciudad-de-panama/renault/
-shop: Autohaus
+shop: coche
 ---

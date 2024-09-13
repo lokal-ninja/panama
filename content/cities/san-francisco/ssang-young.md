@@ -1,5 +1,5 @@
 ---
 title: "Ssang Young"
 url: /san-francisco/ssang-young/
-shop: Autohaus
+shop: coche
 ---

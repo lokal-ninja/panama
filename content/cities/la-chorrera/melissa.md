@@ -1,5 +1,5 @@
 ---
 title: "Melissa"
 url: /la-chorrera/melissa/
-shop: Videospiele
+shop: videojuegos
 ---

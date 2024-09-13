@@ -1,5 +1,5 @@
 ---
 title: "Rebaja Moda"
 url: /ciudad-de-panama/rebaja-moda/
-shop: Kleidung
+shop: ropa
 ---

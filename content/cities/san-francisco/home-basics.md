@@ -1,5 +1,5 @@
 ---
 title: "Home Basics"
 url: /san-francisco/home-basics/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

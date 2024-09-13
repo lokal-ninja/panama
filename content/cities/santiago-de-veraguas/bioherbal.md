@@ -1,5 +1,5 @@
 ---
 title: "BioHerbal"
 url: /santiago-de-veraguas/bioherbal/
-shop: Nahrungsergänzung
+shop: suplementos nutricionales
 ---

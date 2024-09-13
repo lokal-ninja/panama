@@ -1,5 +1,5 @@
 ---
 title: "Supercentro Villo's"
 url: /la-concepcion/supercentro-villos/
-shop: Supermarkt
+shop: supermercado
 ---

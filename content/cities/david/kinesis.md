@@ -1,5 +1,5 @@
 ---
 title: "Kinesis"
 url: /david/kinesis/
-shop: Allgemein
+shop: general
 ---

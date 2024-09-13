@@ -1,5 +1,5 @@
 ---
 title: "Alejandra"
 url: /santiago-de-veraguas/alejandra/
-shop: Schuhe
+shop: zapatos
 ---

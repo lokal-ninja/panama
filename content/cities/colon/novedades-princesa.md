@@ -1,5 +1,5 @@
 ---
 title: "Novedades Princesa"
 url: /colon/novedades-princesa/
-shop: Andenken
+shop: regalo
 ---

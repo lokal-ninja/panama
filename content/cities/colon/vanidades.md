@@ -1,5 +1,5 @@
 ---
 title: "Vanidades"
 url: /colon/vanidades/
-shop: Kleidung
+shop: ropa
 ---

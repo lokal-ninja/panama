@@ -1,5 +1,5 @@
 ---
 title: "Empresas Bern"
 url: /ciudad-de-panama/empresas-bern/
-shop: Allgemein
+shop: general
 ---

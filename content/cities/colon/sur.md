@@ -1,5 +1,5 @@
 ---
 title: "Sur"
 url: /colon/sur/
-shop: Farben
+shop: pintura
 ---

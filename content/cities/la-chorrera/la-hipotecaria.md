@@ -1,5 +1,5 @@
 ---
 title: "La Hipotecaria"
 url: /la-chorrera/la-hipotecaria/
-shop: Allgemein
+shop: general
 ---

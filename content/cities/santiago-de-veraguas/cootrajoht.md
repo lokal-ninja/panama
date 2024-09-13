@@ -1,5 +1,5 @@
 ---
 title: "Cootrajoht"
 url: /santiago-de-veraguas/cootrajoht/
-shop: Autoteile
+shop: piezas de automóviles
 ---

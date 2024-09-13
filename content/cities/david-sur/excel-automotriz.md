@@ -1,5 +1,5 @@
 ---
 title: "Excel Automotriz"
 url: /david-sur/excel-automotriz/
-shop: Autohaus
+shop: coche
 ---

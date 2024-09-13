@@ -1,5 +1,5 @@
 ---
 title: "Canista Basica"
 url: /dolega/canista-basica/
-shop: Supermarkt
+shop: supermercado
 ---

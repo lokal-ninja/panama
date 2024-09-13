@@ -1,5 +1,5 @@
 ---
 title: "Fuzion"
 url: /panama-city/fuzion/
-shop: Allgemein
+shop: general
 ---

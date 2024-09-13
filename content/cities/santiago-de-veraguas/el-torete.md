@@ -1,5 +1,5 @@
 ---
 title: "El Torete"
 url: /santiago-de-veraguas/el-torete/
-shop: Metzgerei
+shop: carnicero
 ---

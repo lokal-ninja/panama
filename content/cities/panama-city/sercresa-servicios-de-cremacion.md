@@ -1,5 +1,5 @@
 ---
 title: "Sercresa Servicios de Cremación"
 url: /panama-city/sercresa-servicios-de-cremacion/
-shop: Bestattungen
+shop: directores de funerarias
 ---

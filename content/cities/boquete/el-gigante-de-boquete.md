@@ -1,5 +1,5 @@
 ---
 title: "El Gigante de Boquete"
 url: /boquete/el-gigante-de-boquete/
-shop: Warenhaus
+shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Forro Auto"
 url: /panama-city/forro-auto/
-shop: Autoteile
+shop: piezas de automóviles
 ---

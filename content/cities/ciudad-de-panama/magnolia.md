@@ -1,5 +1,5 @@
 ---
 title: "Magnolia"
 url: /ciudad-de-panama/magnolia/
-shop: Allgemein
+shop: general
 ---

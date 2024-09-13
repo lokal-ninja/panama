@@ -1,5 +1,5 @@
 ---
 title: "Titan"
 url: /colon/titan/
-shop: Warenhaus
+shop: grandes almacenes
 ---

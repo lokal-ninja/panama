@@ -1,5 +1,5 @@
 ---
 title: "LaCosta"
 url: /panama/lacosta/
-shop: Kleidung
+shop: ropa
 ---

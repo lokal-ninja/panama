@@ -1,5 +1,5 @@
 ---
 title: "Mini Super La Prosperidad"
 url: /david/mini-super-la-prosperidad/
-shop: Lebensmittel
+shop: comodidad
 ---

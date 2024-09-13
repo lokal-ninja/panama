@@ -1,5 +1,5 @@
 ---
 title: "Picadilly Store"
 url: /david/picadilly-store/
-shop: Warenhaus
+shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Almacén Jacky"
 url: /santa-ana/almacen-jacky/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Almacén Tecniman"
 url: /david/almacen-tecniman/
-shop: Autoteile
+shop: piezas de automóviles
 ---

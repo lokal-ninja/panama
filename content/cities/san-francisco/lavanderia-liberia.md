@@ -1,5 +1,5 @@
 ---
 title: "Lavanderia Liberia"
 url: /san-francisco/lavanderia-liberia/
-shop: Wäscherei
+shop: lavandería
 ---

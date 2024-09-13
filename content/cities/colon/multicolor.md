@@ -1,5 +1,5 @@
 ---
 title: "Multicolor"
 url: /colon/multicolor/
-shop: Kopieren
+shop: copyshop
 ---

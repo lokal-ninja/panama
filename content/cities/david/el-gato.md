@@ -1,5 +1,5 @@
 ---
 title: "El Gato"
 url: /david/el-gato/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

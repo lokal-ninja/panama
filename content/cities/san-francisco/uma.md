@@ -1,5 +1,5 @@
 ---
 title: "Uma"
 url: /san-francisco/uma/
-shop: Kleidung
+shop: ropa
 ---

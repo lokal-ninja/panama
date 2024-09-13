@@ -1,5 +1,5 @@
 ---
 title: "Mini Super El Poligono"
 url: /david/mini-super-el-poligono/
-shop: Lebensmittel
+shop: comodidad
 ---

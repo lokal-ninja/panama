@@ -1,5 +1,5 @@
 ---
 title: "TMovil"
 url: /colon/tmovil/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mely Fashion"
 url: /santa-ana/mely-fashion/
-shop: Allgemein
+shop: general
 ---

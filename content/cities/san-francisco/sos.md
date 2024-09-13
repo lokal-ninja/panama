@@ -1,5 +1,5 @@
 ---
 title: "SOS"
 url: /san-francisco/sos/
-shop: Allgemein
+shop: general
 ---

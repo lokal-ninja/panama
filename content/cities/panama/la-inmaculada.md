@@ -1,5 +1,5 @@
 ---
 title: "La Inmaculada"
 url: /panama/la-inmaculada/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Rey"
 url: /panana/supermercado-rey/
-shop: Supermarkt
+shop: supermercado
 ---

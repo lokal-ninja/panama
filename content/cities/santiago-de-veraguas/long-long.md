@@ -1,5 +1,5 @@
 ---
 title: "Long Long"
 url: /santiago-de-veraguas/long-long/
-shop: Handy
+shop: teléfono móvil
 ---

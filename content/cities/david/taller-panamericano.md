@@ -1,5 +1,5 @@
 ---
 title: "Taller Panamericano"
 url: /david/taller-panamericano/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Taller"
 url: /penonome/taller/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

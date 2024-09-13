@@ -1,5 +1,5 @@
 ---
 title: "Millenium Plaza"
 url: /colon/millenium-plaza/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Plaza Material"
 url: /la-chorrera/plaza-material/
-shop: Eisenwaren
+shop: hardware
 ---

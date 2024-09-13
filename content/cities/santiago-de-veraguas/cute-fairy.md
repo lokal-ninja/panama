@@ -1,5 +1,5 @@
 ---
 title: "Cute Fairy"
 url: /santiago-de-veraguas/cute-fairy/
-shop: Kramladen
+shop: tienda de variedades
 ---

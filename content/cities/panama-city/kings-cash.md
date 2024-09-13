@@ -1,5 +1,5 @@
 ---
 title: "King's Cash"
 url: /panama-city/kings-cash/
-shop: Allgemein
+shop: general
 ---

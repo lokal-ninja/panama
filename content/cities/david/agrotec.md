@@ -1,5 +1,5 @@
 ---
 title: "Agrotec"
 url: /david/agrotec/
-shop: Landwirtschaftlich
+shop: agraria
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Auto Servicio"
 url: /la-concepcion/auto-servicio/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Papel Ahumado"
 url: /la-chorrera/papel-ahumado/
-shop: Allgemein
+shop: general
 ---

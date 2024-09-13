@@ -1,5 +1,5 @@
 ---
 title: "Maracativi"
 url: /santiago-de-veraguas/maracativi-avenida-central/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

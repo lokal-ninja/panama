@@ -1,5 +1,5 @@
 ---
 title: "Stamps"
 url: /ciudad-de-panama/stamps/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Microserfin"
 url: /la-chorrera/microserfin/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trip On"
 url: /santiago-de-veraguas/trip-on/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mabila"
 url: /ciudad-de-panama/mabila/
-shop: Allgemein
+shop: general
 ---

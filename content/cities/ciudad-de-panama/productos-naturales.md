@@ -1,5 +1,5 @@
 ---
 title: "Productos Naturales"
 url: /ciudad-de-panama/productos-naturales/
-shop: Gesundheit
+shop: salud
 ---

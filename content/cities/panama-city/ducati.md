@@ -1,5 +1,5 @@
 ---
 title: "Ducati"
 url: /panama-city/ducati/
-shop: Autoteile
+shop: piezas de automóviles
 ---

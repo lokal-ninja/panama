@@ -1,5 +1,5 @@
 ---
 title: "Mariuce Aquarela"
 url: /ciudad-de-panama/mariuce-aquarela/
-shop: Allgemein
+shop: general
 ---

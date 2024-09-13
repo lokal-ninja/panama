@@ -1,5 +1,5 @@
 ---
 title: "Digicel"
 url: /panama-city/digicel-3/
-shop: Handy
+shop: teléfono móvil
 ---

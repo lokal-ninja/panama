@@ -1,5 +1,5 @@
 ---
 title: "TASCO Battery Express"
 url: /la-chorrera/tasco-battery-express/
-shop: Autoteile
+shop: piezas de automóviles
 ---

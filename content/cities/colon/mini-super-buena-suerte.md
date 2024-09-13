@@ -1,5 +1,5 @@
 ---
 title: "Mini Super Buena Suerte"
 url: /colon/mini-super-buena-suerte/
-shop: Lebensmittel
+shop: comodidad
 ---

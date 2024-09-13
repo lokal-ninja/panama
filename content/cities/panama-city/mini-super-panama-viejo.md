@@ -1,5 +1,5 @@
 ---
 title: "Mini Super Panama Viejo"
 url: /panama-city/mini-super-panama-viejo/
-shop: Lebensmittel
+shop: comodidad
 ---

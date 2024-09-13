@@ -1,5 +1,5 @@
 ---
 title: "Studio Hair"
 url: /san-francisco/studio-hair/
-shop: Friseur
+shop: peluquería
 ---

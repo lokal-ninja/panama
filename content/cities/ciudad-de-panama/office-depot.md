@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /ciudad-de-panama/office-depot/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Reina"
 url: /la-chorrera/la-reina/
-shop: Möbel
+shop: muebles
 ---

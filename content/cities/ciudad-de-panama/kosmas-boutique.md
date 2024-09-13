@@ -1,5 +1,5 @@
 ---
 title: "Kosmas Boutique"
 url: /ciudad-de-panama/kosmas-boutique/
-shop: Kleidung
+shop: ropa
 ---

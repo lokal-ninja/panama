@@ -1,5 +1,5 @@
 ---
 title: "Taller Integral"
 url: /david/taller-integral/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

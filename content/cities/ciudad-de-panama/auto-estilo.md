@@ -1,5 +1,5 @@
 ---
 title: "Auto Estilo"
 url: /ciudad-de-panama/auto-estilo/
-shop: Autohaus
+shop: coche
 ---

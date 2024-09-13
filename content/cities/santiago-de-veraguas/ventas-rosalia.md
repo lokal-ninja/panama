@@ -1,5 +1,5 @@
 ---
 title: "Ventas Rosalía"
 url: /santiago-de-veraguas/ventas-rosalia/
-shop: Allgemein
+shop: general
 ---

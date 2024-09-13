@@ -1,5 +1,5 @@
 ---
 title: "Panamericana"
 url: /ciudad-de-panama/panamericana/
-shop: Autoteile
+shop: piezas de automóviles
 ---

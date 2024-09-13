@@ -1,5 +1,5 @@
 ---
 title: "Tres Potrillos"
 url: /santiago-de-veraguas/tres-potrillos/
-shop: Landwirtschaftlich
+shop: agraria
 ---

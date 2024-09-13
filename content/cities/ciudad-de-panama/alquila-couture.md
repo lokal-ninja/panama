@@ -1,5 +1,5 @@
 ---
 title: "Alquila Couture"
 url: /ciudad-de-panama/alquila-couture/
-shop: Kleidung
+shop: ropa
 ---

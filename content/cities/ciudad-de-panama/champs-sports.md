@@ -1,5 +1,5 @@
 ---
 title: "Champs Sports"
 url: /ciudad-de-panama/champs-sports/
-shop: Sport
+shop: deportes
 ---

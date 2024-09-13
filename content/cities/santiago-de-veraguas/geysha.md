@@ -1,5 +1,5 @@
 ---
 title: "Geysha"
 url: /santiago-de-veraguas/geysha/
-shop: Kosmetik
+shop: cosméticos
 ---

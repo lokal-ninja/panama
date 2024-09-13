@@ -1,5 +1,5 @@
 ---
 title: "Gisell"
 url: /santiago-de-veraguas/gisell/
-shop: Kramladen
+shop: tienda de variedades
 ---

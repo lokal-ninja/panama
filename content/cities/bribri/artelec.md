@@ -1,5 +1,5 @@
 ---
 title: "Artelec"
 url: /bribri/artelec/
-shop: Elektronik
+shop: electrónica
 ---

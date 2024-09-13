@@ -1,5 +1,5 @@
 ---
 title: "Sur"
 url: /panama-city/sur/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

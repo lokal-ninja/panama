@@ -1,5 +1,5 @@
 ---
 title: "Auto Centro Colón"
 url: /colon/auto-centro-colon/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Que Riko"
 url: /ciudad-de-panama/que-riko/
-shop: Allgemein
+shop: general
 ---

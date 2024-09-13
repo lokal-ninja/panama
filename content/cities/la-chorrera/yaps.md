@@ -1,5 +1,5 @@
 ---
 title: "Yap's"
 url: /la-chorrera/yaps/
-shop: Supermarkt
+shop: supermercado
 ---

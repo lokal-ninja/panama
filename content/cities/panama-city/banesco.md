@@ -1,5 +1,5 @@
 ---
 title: "Banesco"
 url: /panama-city/banesco/
-shop: Allgemein
+shop: general
 ---

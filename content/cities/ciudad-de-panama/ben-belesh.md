@@ -1,5 +1,5 @@
 ---
 title: "Ben Belesh"
 url: /ciudad-de-panama/ben-belesh/
-shop: Kleidung
+shop: ropa
 ---

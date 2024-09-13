@@ -1,5 +1,5 @@
 ---
 title: "La Carpa"
 url: /ciudad-de-panama/la-carpa/
-shop: Allgemein
+shop: general
 ---

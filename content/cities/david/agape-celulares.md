@@ -1,5 +1,5 @@
 ---
 title: "Agape Celulares"
 url: /david/agape-celulares/
-shop: Handy
+shop: teléfono móvil
 ---

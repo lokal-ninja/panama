@@ -1,5 +1,5 @@
 ---
 title: "La Vaca"
 url: /santiago-de-veraguas/la-vaca/
-shop: Landwirtschaftlich
+shop: agraria
 ---

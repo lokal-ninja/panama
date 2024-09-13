@@ -1,5 +1,5 @@
 ---
 title: "Auto Servicio Hilary"
 url: /david-sur/auto-servicio-hilary/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

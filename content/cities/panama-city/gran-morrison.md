@@ -1,5 +1,5 @@
 ---
 title: "Gran Morrison"
 url: /panama-city/gran-morrison/
-shop: Allgemein
+shop: general
 ---

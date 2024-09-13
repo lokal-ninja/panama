@@ -1,5 +1,5 @@
 ---
 title: "Juan Carlos"
 url: /santiago-de-veraguas/juan-carlos/
-shop: Friseur
+shop: peluquería
 ---

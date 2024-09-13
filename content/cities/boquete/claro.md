@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /boquete/claro/
-shop: Handy
+shop: teléfono móvil
 ---

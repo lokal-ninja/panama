@@ -1,5 +1,5 @@
 ---
 title: "Sazón Único"
 url: /panama-city/sazon-unico/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Panama Kite Center"
 url: /punta-chame/panama-kite-center/
-shop: Sport
+shop: deportes
 ---

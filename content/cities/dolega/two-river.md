@@ -1,5 +1,5 @@
 ---
 title: "Two River"
 url: /dolega/two-river/
-shop: Garten-Center
+shop: centro de jardinería
 ---

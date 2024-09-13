@@ -1,5 +1,5 @@
 ---
 title: "Panadería Taicha"
 url: /el-chorrillo/panaderia-taicha/
-shop: Bäckerei
+shop: panadería
 ---

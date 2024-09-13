@@ -1,5 +1,5 @@
 ---
 title: "Instafrenos"
 url: /panama-city/instafrenos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

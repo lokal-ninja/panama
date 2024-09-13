@@ -1,5 +1,5 @@
 ---
 title: "Kia Motors"
 url: /san-francisco/kia-motors/
-shop: Autohaus
+shop: coche
 ---

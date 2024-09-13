@@ -1,5 +1,5 @@
 ---
 title: "Boquette Outdoor Adventures"
 url: /boquete/boquette-outdoor-adventures/
-shop: Reisebüro
+shop: agencia de viajes
 ---

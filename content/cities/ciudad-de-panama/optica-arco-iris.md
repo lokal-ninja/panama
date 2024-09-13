@@ -1,5 +1,5 @@
 ---
 title: "Optica Arco Iris"
 url: /ciudad-de-panama/optica-arco-iris/
-shop: Allgemein
+shop: general
 ---

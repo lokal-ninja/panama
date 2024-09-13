@@ -1,5 +1,5 @@
 ---
 title: "House Birthday"
 url: /santa-ana/house-birthday/
-shop: Allgemein
+shop: general
 ---

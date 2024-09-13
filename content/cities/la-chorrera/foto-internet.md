@@ -1,5 +1,5 @@
 ---
 title: "Foto Internet"
 url: /la-chorrera/foto-internet/
-shop: Allgemein
+shop: general
 ---

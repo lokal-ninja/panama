@@ -1,5 +1,5 @@
 ---
 title: "Multipartes Grace"
 url: /santiago-de-veraguas/multipartes-grace/
-shop: Autoteile
+shop: piezas de automóviles
 ---

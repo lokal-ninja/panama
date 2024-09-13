@@ -1,5 +1,5 @@
 ---
 title: "Almacén Helen"
 url: /la-chorrera/almacen-helen/
-shop: Allgemein
+shop: general
 ---

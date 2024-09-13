@@ -1,5 +1,5 @@
 ---
 title: "The Diet Store"
 url: /panama/the-diet-store/
-shop: Allgemein
+shop: general
 ---

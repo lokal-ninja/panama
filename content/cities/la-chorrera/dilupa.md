@@ -1,5 +1,5 @@
 ---
 title: "Dilupa"
 url: /la-chorrera/dilupa/
-shop: Allgemein
+shop: general
 ---

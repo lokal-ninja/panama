@@ -1,5 +1,5 @@
 ---
 title: "Kardy"
 url: /david/kardy/
-shop: Modehaus
+shop: tienda
 ---

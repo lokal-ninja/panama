@@ -1,5 +1,5 @@
 ---
 title: "Casa Gala Store"
 url: /david/casa-gala-store/
-shop: Haushaltsgeräte
+shop: aparato
 ---

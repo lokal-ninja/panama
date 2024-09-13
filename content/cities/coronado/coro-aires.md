@@ -1,5 +1,5 @@
 ---
 title: "Coro-Aires"
 url: /coronado/coro-aires/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Antonio"
 url: /coronado/ferreteria-antonio/
-shop: Eisenwaren
+shop: hardware
 ---

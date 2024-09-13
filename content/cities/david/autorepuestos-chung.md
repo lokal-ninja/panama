@@ -1,5 +1,5 @@
 ---
 title: "Autorepuestos Chung"
 url: /david/autorepuestos-chung/
-shop: Autoteile
+shop: piezas de automóviles
 ---

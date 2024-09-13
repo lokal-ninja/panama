@@ -1,5 +1,5 @@
 ---
 title: "Auto Trader Panama"
 url: /panama-city/auto-trader-panama/
-shop: Autohaus
+shop: coche
 ---

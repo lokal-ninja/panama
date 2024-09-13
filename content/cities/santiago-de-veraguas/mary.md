@@ -1,5 +1,5 @@
 ---
 title: "Mary"
 url: /santiago-de-veraguas/mary/
-shop: Kramladen
+shop: tienda de variedades
 ---

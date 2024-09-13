@@ -1,5 +1,5 @@
 ---
 title: "Digicel"
 url: /david/digicel/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bridgestone-Firestone"
 url: /la-chorrera/bridgestone-firestone/
-shop: Reifen
+shop: neumáticos
 ---

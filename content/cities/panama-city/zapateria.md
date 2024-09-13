@@ -1,5 +1,5 @@
 ---
 title: "Zapatería"
 url: /panama-city/zapateria/
-shop: Schuhe
+shop: zapatos
 ---

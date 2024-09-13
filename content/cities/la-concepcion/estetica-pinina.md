@@ -1,5 +1,5 @@
 ---
 title: "Estética Pinina"
 url: /la-concepcion/estetica-pinina/
-shop: Kosmetik
+shop: cosméticos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cypsa"
 url: /santiago-de-veraguas/cypsa/
-shop: Autoteile
+shop: piezas de automóviles
 ---

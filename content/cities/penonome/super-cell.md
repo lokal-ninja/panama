@@ -1,5 +1,5 @@
 ---
 title: "Super Cell"
 url: /penonome/super-cell/
-shop: Dorfladen
+shop: tienda rural
 ---

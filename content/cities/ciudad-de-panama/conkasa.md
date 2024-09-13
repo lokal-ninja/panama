@@ -1,5 +1,5 @@
 ---
 title: "Conkasa"
 url: /ciudad-de-panama/conkasa/
-shop: Allgemein
+shop: general
 ---

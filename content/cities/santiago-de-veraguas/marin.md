@@ -1,5 +1,5 @@
 ---
 title: "Marín"
 url: /santiago-de-veraguas/marin/
-shop: Kopieren
+shop: copyshop
 ---

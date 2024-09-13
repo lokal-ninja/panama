@@ -1,5 +1,5 @@
 ---
 title: "Electronica Y Liberia"
 url: /boquete/electronica-y-liberia/
-shop: Warenhaus
+shop: grandes almacenes
 ---

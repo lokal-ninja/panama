@@ -1,5 +1,5 @@
 ---
 title: "Birthday's Place"
 url: /colon/birthdays-place/
-shop: Allgemein
+shop: general
 ---

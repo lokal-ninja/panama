@@ -1,5 +1,5 @@
 ---
 title: "Mundo Costura"
 url: /david/mundo-costura/
-shop: Nähzubehör
+shop: coser
 ---

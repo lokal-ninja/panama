@@ -1,5 +1,5 @@
 ---
 title: "Mego"
 url: /panama/mego/
-shop: Allgemein
+shop: general
 ---

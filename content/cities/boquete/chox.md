@@ -1,5 +1,5 @@
 ---
 title: "Chox"
 url: /boquete/chox/
-shop: Süßwaren
+shop: confitería
 ---

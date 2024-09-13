@@ -1,5 +1,5 @@
 ---
 title: "Global Traders"
 url: /david/global-traders/
-shop: Allgemein
+shop: general
 ---

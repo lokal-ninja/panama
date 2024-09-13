@@ -1,5 +1,5 @@
 ---
 title: "ServiPlayas"
 url: /coronado/serviplayas/
-shop: Allgemein
+shop: general
 ---

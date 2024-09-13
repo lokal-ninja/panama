@@ -1,5 +1,5 @@
 ---
 title: "Alfa Party"
 url: /santiago-de-veraguas/alfa-party/
-shop: Partyzubehör
+shop: fiesta
 ---

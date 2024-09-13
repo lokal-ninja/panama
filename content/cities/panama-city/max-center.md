@@ -1,5 +1,5 @@
 ---
 title: "Max Center"
 url: /panama-city/max-center/
-shop: Elektronik
+shop: electrónica
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Empeños Boa"
 url: /colon/empenos-boa/
-shop: Leiher
+shop: prestamista
 ---

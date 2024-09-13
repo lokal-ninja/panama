@@ -1,5 +1,5 @@
 ---
 title: "Tropigas"
 url: /chame/tropigas/
-shop: Allgemein
+shop: general
 ---

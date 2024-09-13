@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Rodríguez"
 url: /david/ferreteria-rodriguez/
-shop: Eisenwaren
+shop: hardware
 ---

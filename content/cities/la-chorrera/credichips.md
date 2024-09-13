@@ -1,5 +1,5 @@
 ---
 title: "Credichips"
 url: /la-chorrera/credichips/
-shop: Kleidung
+shop: ropa
 ---

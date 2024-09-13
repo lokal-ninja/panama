@@ -1,5 +1,5 @@
 ---
 title: "Boutique China"
 url: /la-chorrera/boutique-china/
-shop: Modehaus
+shop: tienda
 ---

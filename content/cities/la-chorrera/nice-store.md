@@ -1,5 +1,5 @@
 ---
 title: "Nice Store"
 url: /la-chorrera/nice-store/
-shop: Allgemein
+shop: general
 ---

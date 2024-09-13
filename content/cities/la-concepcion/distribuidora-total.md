@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Total"
 url: /la-concepcion/distribuidora-total/
-shop: Allgemein
+shop: general
 ---

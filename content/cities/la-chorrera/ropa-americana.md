@@ -1,5 +1,5 @@
 ---
 title: "Ropa Americana"
 url: /la-chorrera/ropa-americana/
-shop: Kleidung
+shop: ropa
 ---

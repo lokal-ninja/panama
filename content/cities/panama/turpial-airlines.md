@@ -1,5 +1,5 @@
 ---
 title: "Turpial Airlines"
 url: /panama/turpial-airlines/
-shop: Reisebüro
+shop: agencia de viajes
 ---

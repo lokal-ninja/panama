@@ -1,5 +1,5 @@
 ---
 title: "Speed Car Solutin, S.A."
 url: /panama-city/speed-car-solutin-s-a/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

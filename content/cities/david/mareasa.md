@@ -1,5 +1,5 @@
 ---
 title: "Mareasa"
 url: /david/mareasa/
-shop: Autoteile
+shop: piezas de automóviles
 ---

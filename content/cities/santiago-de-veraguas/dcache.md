@@ -1,5 +1,5 @@
 ---
 title: "D'Caché"
 url: /santiago-de-veraguas/dcache/
-shop: Baustoffe
+shop: comercio
 ---

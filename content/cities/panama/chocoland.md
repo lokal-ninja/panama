@@ -1,5 +1,5 @@
 ---
 title: "Chocoland"
 url: /panama/chocoland/
-shop: Süßwaren
+shop: confitería
 ---

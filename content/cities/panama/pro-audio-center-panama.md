@@ -1,5 +1,5 @@
 ---
 title: "Pro Audio Center Panama"
 url: /panama/pro-audio-center-panama/
-shop: Instrumente
+shop: instrumento musical
 ---

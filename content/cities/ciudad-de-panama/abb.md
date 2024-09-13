@@ -1,5 +1,5 @@
 ---
 title: "ABB"
 url: /ciudad-de-panama/abb/
-shop: Allgemein
+shop: general
 ---

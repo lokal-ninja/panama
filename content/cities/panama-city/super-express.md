@@ -1,5 +1,5 @@
 ---
 title: "Super Express"
 url: /panama-city/super-express/
-shop: Allgemein
+shop: general
 ---

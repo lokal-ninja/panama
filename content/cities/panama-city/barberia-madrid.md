@@ -1,5 +1,5 @@
 ---
 title: "Barbería Madrid"
 url: /panama-city/barberia-madrid/
-shop: Friseur
+shop: peluquería
 ---

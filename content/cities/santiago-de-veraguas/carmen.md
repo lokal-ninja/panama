@@ -1,5 +1,5 @@
 ---
 title: "Carmen"
 url: /santiago-de-veraguas/carmen/
-shop: Bestattungen
+shop: directores de funerarias
 ---

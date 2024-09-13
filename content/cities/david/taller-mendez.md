@@ -1,5 +1,5 @@
 ---
 title: "Taller Mendez"
 url: /david/taller-mendez/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

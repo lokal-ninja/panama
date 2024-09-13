@@ -1,5 +1,5 @@
 ---
 title: "Super Centro Chorrerano"
 url: /la-chorrera/super-centro-chorrerano/
-shop: Warenhaus
+shop: grandes almacenes
 ---

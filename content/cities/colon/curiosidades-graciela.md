@@ -1,5 +1,5 @@
 ---
 title: "Curiosidades Graciela"
 url: /colon/curiosidades-graciela/
-shop: Kramladen
+shop: tienda de variedades
 ---

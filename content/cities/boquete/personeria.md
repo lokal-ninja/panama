@@ -1,5 +1,5 @@
 ---
 title: "Personeria"
 url: /boquete/personeria/
-shop: Allgemein
+shop: general
 ---

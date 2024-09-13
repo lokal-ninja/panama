@@ -1,5 +1,5 @@
 ---
 title: "E Travel"
 url: /santiago-de-veraguas/e-travel/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Casa Chorrerana"
 url: /la-chorrera/casa-chorrerana/
-shop: Eisenwaren
+shop: hardware
 ---

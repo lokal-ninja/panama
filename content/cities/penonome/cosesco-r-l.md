@@ -1,5 +1,5 @@
 ---
 title: "COSESCO, R.L"
 url: /penonome/cosesco-r-l/
-shop: Leiher
+shop: prestamista
 ---

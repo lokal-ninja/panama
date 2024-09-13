@@ -1,5 +1,5 @@
 ---
 title: "Cabocca"
 url: /ciudad-de-panama/cabocca/
-shop: Allgemein
+shop: general
 ---

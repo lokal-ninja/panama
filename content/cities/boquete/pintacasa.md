@@ -1,5 +1,5 @@
 ---
 title: "Pintacasa"
 url: /boquete/pintacasa/
-shop: Farben
+shop: pintura
 ---

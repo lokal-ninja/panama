@@ -1,5 +1,5 @@
 ---
 title: "Power Music"
 url: /ciudad-de-panama/power-music/
-shop: Elektronik
+shop: electrónica
 ---

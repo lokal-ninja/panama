@@ -1,5 +1,5 @@
 ---
 title: "Lavanderia Yeni"
 url: /la-chorrera/lavanderia-yeni/
-shop: Wäscherei
+shop: lavandería
 ---

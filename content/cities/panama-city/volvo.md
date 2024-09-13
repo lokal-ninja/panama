@@ -1,5 +1,5 @@
 ---
 title: "Volvo"
 url: /panama-city/volvo/
-shop: Autohaus
+shop: coche
 ---

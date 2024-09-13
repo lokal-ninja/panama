@@ -1,5 +1,5 @@
 ---
 title: "Taller y Ventas Marisol"
 url: /santiago-de-veraguas/taller-y-ventas-marisol/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Politours"
 url: /ciudad-de-panama/politours/
-shop: Reisebüro
+shop: agencia de viajes
 ---

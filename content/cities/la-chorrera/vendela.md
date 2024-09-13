@@ -1,5 +1,5 @@
 ---
 title: "Vendela"
 url: /la-chorrera/vendela/
-shop: Allgemein
+shop: general
 ---

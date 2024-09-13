@@ -1,5 +1,5 @@
 ---
 title: "Coopeve, R.L."
 url: /panama-city/coopeve-r-l/
-shop: Allgemein
+shop: general
 ---

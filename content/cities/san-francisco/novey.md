@@ -1,5 +1,5 @@
 ---
 title: "Novey"
 url: /san-francisco/novey/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

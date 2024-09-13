@@ -1,5 +1,5 @@
 ---
 title: "Servicios Electros Carrera"
 url: /david/servicios-electros-carrera/
-shop: Allgemein
+shop: general
 ---

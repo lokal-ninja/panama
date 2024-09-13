@@ -1,5 +1,5 @@
 ---
 title: "LA Showrrom"
 url: /santiago-de-verguas/la-showrrom/
-shop: Kleidung
+shop: ropa
 ---

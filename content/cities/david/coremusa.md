@@ -1,5 +1,5 @@
 ---
 title: "Coremusa"
 url: /david/coremusa/
-shop: Möbel
+shop: muebles
 ---

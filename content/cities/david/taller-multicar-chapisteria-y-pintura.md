@@ -1,5 +1,5 @@
 ---
 title: "Taller Multicar Chapistería y Pintura"
 url: /david/taller-multicar-chapisteria-y-pintura/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Modas Milán"
 url: /santiago-de-veraguas/modas-milan/
-shop: Kleidung
+shop: ropa
 ---

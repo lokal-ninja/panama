@@ -1,5 +1,5 @@
 ---
 title: "Casa Fú"
 url: /la-chorrera/casa-fu/
-shop: Lebensmittel
+shop: comodidad
 ---

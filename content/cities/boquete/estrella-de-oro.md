@@ -1,5 +1,5 @@
 ---
 title: "Estrella de Oro"
 url: /boquete/estrella-de-oro/
-shop: Reisebüro
+shop: agencia de viajes
 ---

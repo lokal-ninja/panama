@@ -1,5 +1,5 @@
 ---
 title: "Comercio Toto"
 url: /bocas-town/comercio-toto/
-shop: Supermarkt
+shop: supermercado
 ---

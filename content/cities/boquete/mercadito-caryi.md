@@ -1,5 +1,5 @@
 ---
 title: "Mercadito Caryi"
 url: /boquete/mercadito-caryi/
-shop: Supermarkt
+shop: supermercado
 ---

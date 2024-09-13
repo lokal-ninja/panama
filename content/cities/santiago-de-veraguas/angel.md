@@ -1,5 +1,5 @@
 ---
 title: "Ángel"
 url: /santiago-de-veraguas/angel/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

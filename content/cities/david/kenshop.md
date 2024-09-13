@@ -1,5 +1,5 @@
 ---
 title: "KenShop"
 url: /david/kenshop/
-shop: Handy
+shop: teléfono móvil
 ---

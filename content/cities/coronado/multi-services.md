@@ -1,5 +1,5 @@
 ---
 title: "Multi Services"
 url: /coronado/multi-services/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

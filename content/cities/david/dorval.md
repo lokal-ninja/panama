@@ -1,5 +1,5 @@
 ---
 title: "Dorval"
 url: /david/dorval/
-shop: Schuhe
+shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Adams"
 url: /panama-city/adams/
-shop: Allgemein
+shop: general
 ---

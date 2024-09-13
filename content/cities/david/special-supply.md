@@ -1,5 +1,5 @@
 ---
 title: "Special Supply"
 url: /david/special-supply/
-shop: Autoteile
+shop: piezas de automóviles
 ---

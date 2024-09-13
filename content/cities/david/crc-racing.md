@@ -1,5 +1,5 @@
 ---
 title: "CRC Racing"
 url: /david/crc-racing/
-shop: Autoteile
+shop: piezas de automóviles
 ---

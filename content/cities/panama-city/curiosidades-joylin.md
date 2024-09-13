@@ -1,5 +1,5 @@
 ---
 title: "Curiosidades Joylin"
 url: /panama-city/curiosidades-joylin/
-shop: Schmuck
+shop: joyería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rey"
 url: /ciudad-de-panama/rey/
-shop: Supermarkt
+shop: supermercado
 ---

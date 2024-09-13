@@ -1,5 +1,5 @@
 ---
 title: "Barili"
 url: /santiago-de-veraguas/barili/
-shop: Autoteile
+shop: piezas de automóviles
 ---

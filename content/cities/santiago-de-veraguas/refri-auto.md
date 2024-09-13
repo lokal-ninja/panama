@@ -1,5 +1,5 @@
 ---
 title: "Refri Auto"
 url: /santiago-de-veraguas/refri-auto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

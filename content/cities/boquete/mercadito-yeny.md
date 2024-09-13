@@ -1,5 +1,5 @@
 ---
 title: "Mercadito Yeny"
 url: /boquete/mercadito-yeny/
-shop: Supermarkt
+shop: supermercado
 ---

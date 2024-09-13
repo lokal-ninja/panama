@@ -1,5 +1,5 @@
 ---
 title: "Collins"
 url: /ciudad-de-panama/collins/
-shop: Kleidung
+shop: ropa
 ---

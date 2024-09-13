@@ -1,5 +1,5 @@
 ---
 title: "Implosa"
 url: /la-chorrera/implosa/
-shop: Eisenwaren
+shop: hardware
 ---

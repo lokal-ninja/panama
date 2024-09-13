@@ -1,5 +1,5 @@
 ---
 title: "Taller Morales"
 url: /24-de-diciembre/taller-morales/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Get Emani"
 url: /dolega/get-emani/
-shop: Handy
+shop: teléfono móvil
 ---

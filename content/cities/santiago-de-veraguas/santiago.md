@@ -1,5 +1,5 @@
 ---
 title: "Santiago"
 url: /santiago-de-veraguas/santiago/
-shop: Handy
+shop: teléfono móvil
 ---

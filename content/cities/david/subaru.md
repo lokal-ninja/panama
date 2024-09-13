@@ -1,5 +1,5 @@
 ---
 title: "Subaru"
 url: /david/subaru/
-shop: Autohaus
+shop: coche
 ---

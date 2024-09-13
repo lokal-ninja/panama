@@ -1,5 +1,5 @@
 ---
 title: "Autolavado"
 url: /panama-city/autolavado/
-shop: Autoteile
+shop: piezas de automóviles
 ---

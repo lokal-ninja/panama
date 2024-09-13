@@ -1,5 +1,5 @@
 ---
 title: "Panamotor"
 url: /david-sur/panamotor/
-shop: Autohaus
+shop: coche
 ---

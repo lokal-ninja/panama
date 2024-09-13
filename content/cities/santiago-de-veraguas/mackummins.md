@@ -1,5 +1,5 @@
 ---
 title: "Mackummins"
 url: /santiago-de-veraguas/mackummins/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

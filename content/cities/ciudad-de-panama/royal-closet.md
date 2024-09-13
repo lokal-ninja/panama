@@ -1,5 +1,5 @@
 ---
 title: "Royal Closet"
 url: /ciudad-de-panama/royal-closet/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Natuzzi"
 url: /ciudad-de-panama/natuzzi/
-shop: Allgemein
+shop: general
 ---

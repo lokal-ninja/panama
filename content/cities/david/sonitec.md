@@ -1,5 +1,5 @@
 ---
 title: "Sonitec"
 url: /david/sonitec/
-shop: Elektronik
+shop: electrónica
 ---

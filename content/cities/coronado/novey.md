@@ -1,5 +1,5 @@
 ---
 title: "Novey"
 url: /coronado/novey/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

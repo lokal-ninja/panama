@@ -1,5 +1,5 @@
 ---
 title: "Rimini"
 url: /santiago-de-veraguas/rimini/
-shop: Leiher
+shop: prestamista
 ---

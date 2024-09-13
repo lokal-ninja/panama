@@ -1,5 +1,5 @@
 ---
 title: "Fantasy"
 url: /la-chorrera/fantasy/
-shop: Warenhaus
+shop: grandes almacenes
 ---

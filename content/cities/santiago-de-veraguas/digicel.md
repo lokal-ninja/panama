@@ -1,5 +1,5 @@
 ---
 title: "Digicel"
 url: /santiago-de-veraguas/digicel/
-shop: Handy
+shop: teléfono móvil
 ---

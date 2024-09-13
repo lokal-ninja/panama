@@ -1,5 +1,5 @@
 ---
 title: "Electro Controles"
 url: /david/electro-controles/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Electrysol"
 url: /david/electrysol/
-shop: Allgemein
+shop: general
 ---

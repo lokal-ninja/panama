@@ -1,5 +1,5 @@
 ---
 title: "Cecil Fashion"
 url: /ciudad-de-panama/cecil-fashion/
-shop: Kleidung
+shop: ropa
 ---

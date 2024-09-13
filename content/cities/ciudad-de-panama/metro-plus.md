@@ -1,5 +1,5 @@
 ---
 title: "Metro Plus"
 url: /ciudad-de-panama/metro-plus/
-shop: Lebensmittel
+shop: comodidad
 ---

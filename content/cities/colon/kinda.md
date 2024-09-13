@@ -1,5 +1,5 @@
 ---
 title: "Kinda"
 url: /colon/kinda/
-shop: Kleidung
+shop: ropa
 ---

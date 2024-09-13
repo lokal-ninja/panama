@@ -1,5 +1,5 @@
 ---
 title: "Automoviles"
 url: /la-chorrera/automoviles/
-shop: Autoteile
+shop: piezas de automóviles
 ---

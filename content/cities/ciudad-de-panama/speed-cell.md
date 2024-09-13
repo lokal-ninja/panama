@@ -1,5 +1,5 @@
 ---
 title: "Speed Cell"
 url: /ciudad-de-panama/speed-cell/
-shop: Allgemein
+shop: general
 ---

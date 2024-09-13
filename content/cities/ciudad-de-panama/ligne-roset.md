@@ -1,5 +1,5 @@
 ---
 title: "Ligne Roset"
 url: /ciudad-de-panama/ligne-roset/
-shop: Möbel
+shop: muebles
 ---

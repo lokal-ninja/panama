@@ -1,5 +1,5 @@
 ---
 title: "Felipe Motta"
 url: /ciudad-de-panama/felipe-motta/
-shop: Getränke
+shop: bebidas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Taller Edison"
 url: /coronado/taller-edison/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Print Service"
 url: /santiago-de-veraguas/print-service/
-shop: Kopieren
+shop: copyshop
 ---

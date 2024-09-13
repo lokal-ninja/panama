@@ -1,5 +1,5 @@
 ---
 title: "Electronica Caribe"
 url: /ciudad-de-panama/electronica-caribe/
-shop: Elektronik
+shop: electrónica
 ---

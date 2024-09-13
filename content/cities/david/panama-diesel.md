@@ -1,5 +1,5 @@
 ---
 title: "Panama Diesel"
 url: /david/panama-diesel/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

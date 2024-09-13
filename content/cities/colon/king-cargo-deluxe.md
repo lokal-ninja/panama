@@ -1,5 +1,5 @@
 ---
 title: "King Cargo Deluxe"
 url: /colon/king-cargo-deluxe/
-shop: Elektronik
+shop: electrónica
 ---

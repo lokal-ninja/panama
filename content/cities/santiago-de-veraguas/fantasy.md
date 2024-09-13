@@ -1,5 +1,5 @@
 ---
 title: "Fantasy"
 url: /santiago-de-veraguas/fantasy/
-shop: Partyzubehör
+shop: fiesta
 ---

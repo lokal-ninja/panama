@@ -1,5 +1,5 @@
 ---
 title: "Siquiret"
 url: /david/siquiret/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fantastic"
 url: /la-chorrera/fantastic/
-shop: Allgemein
+shop: general
 ---

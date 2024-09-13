@@ -1,5 +1,5 @@
 ---
 title: "Burberry"
 url: /panama/burberry/
-shop: Andenken
+shop: regalo
 ---

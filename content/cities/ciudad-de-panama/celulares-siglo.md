@@ -1,5 +1,5 @@
 ---
 title: "Celulares Siglo"
 url: /ciudad-de-panama/celulares-siglo/
-shop: Handy
+shop: teléfono móvil
 ---

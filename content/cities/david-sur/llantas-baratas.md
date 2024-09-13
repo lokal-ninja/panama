@@ -1,5 +1,5 @@
 ---
 title: "Llantas Baratas"
 url: /david-sur/llantas-baratas/
-shop: Reifen
+shop: neumáticos
 ---

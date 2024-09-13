@@ -1,5 +1,5 @@
 ---
 title: "La Farfalla"
 url: /ciudad-de-panama/la-farfalla/
-shop: Allgemein
+shop: general
 ---

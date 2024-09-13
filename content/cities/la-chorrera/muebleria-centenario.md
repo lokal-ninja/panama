@@ -1,5 +1,5 @@
 ---
 title: "Muebleria Centenario"
 url: /la-chorrera/muebleria-centenario/
-shop: Möbel
+shop: muebles
 ---

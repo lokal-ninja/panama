@@ -1,5 +1,5 @@
 ---
 title: "Funeraria"
 url: /la-concepcion/funeraria/
-shop: Bestattungen
+shop: directores de funerarias
 ---

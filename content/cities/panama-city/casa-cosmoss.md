@@ -1,5 +1,5 @@
 ---
 title: "Casa Cosmoss"
 url: /panama-city/casa-cosmoss/
-shop: Warenhaus
+shop: grandes almacenes
 ---

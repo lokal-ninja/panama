@@ -1,5 +1,5 @@
 ---
 title: "Elektra"
 url: /david/elektra/
-shop: Warenhaus
+shop: grandes almacenes
 ---

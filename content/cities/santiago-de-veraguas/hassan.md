@@ -1,5 +1,5 @@
 ---
 title: "Hassan"
 url: /santiago-de-veraguas/hassan/
-shop: Kosmetik
+shop: cosméticos
 ---

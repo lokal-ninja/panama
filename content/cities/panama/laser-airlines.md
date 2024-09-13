@@ -1,5 +1,5 @@
 ---
 title: "Laser Airlines"
 url: /panama/laser-airlines/
-shop: Reisebüro
+shop: agencia de viajes
 ---

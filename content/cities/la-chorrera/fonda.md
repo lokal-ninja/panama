@@ -1,5 +1,5 @@
 ---
 title: "Fonda"
 url: /la-chorrera/fonda/
-shop: Allgemein
+shop: general
 ---

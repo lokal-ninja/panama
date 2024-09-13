@@ -1,5 +1,5 @@
 ---
 title: "Optica Lopez"
 url: /ciudad-de-panama/optica-lopez/
-shop: Optiker
+shop: óptico
 ---

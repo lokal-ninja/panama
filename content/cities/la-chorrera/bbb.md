@@ -1,5 +1,5 @@
 ---
 title: "bbb"
 url: /la-chorrera/bbb/
-shop: Schuhe
+shop: zapatos
 ---

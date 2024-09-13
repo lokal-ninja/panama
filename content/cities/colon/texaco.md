@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /colon/texaco/
-shop: Lebensmittel
+shop: comodidad
 ---

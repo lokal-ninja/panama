@@ -1,5 +1,5 @@
 ---
 title: "Moda Maxi"
 url: /colon/moda-maxi/
-shop: Kleidung
+shop: ropa
 ---

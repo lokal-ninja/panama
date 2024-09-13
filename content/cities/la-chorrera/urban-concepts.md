@@ -1,5 +1,5 @@
 ---
 title: "Urban Concepts"
 url: /la-chorrera/urban-concepts/
-shop: Autoteile
+shop: piezas de automóviles
 ---

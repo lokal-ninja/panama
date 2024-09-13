@@ -1,5 +1,5 @@
 ---
 title: "Novey"
 url: /david-sur/novey/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

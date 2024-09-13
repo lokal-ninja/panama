@@ -1,5 +1,5 @@
 ---
 title: "Angie"
 url: /la-chorrera/angie/
-shop: Allgemein
+shop: general
 ---

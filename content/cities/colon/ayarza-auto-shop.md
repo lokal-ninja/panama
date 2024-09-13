@@ -1,5 +1,5 @@
 ---
 title: "Ayarza Auto Shop"
 url: /colon/ayarza-auto-shop/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

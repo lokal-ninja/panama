@@ -1,5 +1,5 @@
 ---
 title: "Celulares Kelly"
 url: /david/celulares-kelly/
-shop: Handy
+shop: teléfono móvil
 ---

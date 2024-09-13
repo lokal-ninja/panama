@@ -1,5 +1,5 @@
 ---
 title: "Funerales Resurrección"
 url: /ciudad-de-panama/funerales-resurreccion/
-shop: Bestattungen
+shop: directores de funerarias
 ---

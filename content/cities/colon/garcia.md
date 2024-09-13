@@ -1,5 +1,5 @@
 ---
 title: "García"
 url: /colon/garcia/
-shop: Bäckerei
+shop: panadería
 ---

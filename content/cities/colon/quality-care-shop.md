@@ -1,5 +1,5 @@
 ---
 title: "Quality Care Shop"
 url: /colon/quality-care-shop/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MicroServ"
 url: /boquete/microserv/
-shop: Computer
+shop: ordenador
 ---

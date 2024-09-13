@@ -1,5 +1,5 @@
 ---
 title: "El Bramador"
 url: /santiago-de-veraguas/el-bramador/
-shop: Landwirtschaftlich
+shop: agraria
 ---

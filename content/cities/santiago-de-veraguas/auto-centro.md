@@ -1,5 +1,5 @@
 ---
 title: "Auto Centro"
 url: /santiago-de-veraguas/auto-centro/
-shop: Autoteile
+shop: piezas de automóviles
 ---

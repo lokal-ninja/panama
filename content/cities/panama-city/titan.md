@@ -1,5 +1,5 @@
 ---
 title: "Titan"
 url: /panama-city/titan/
-shop: Kleidung
+shop: ropa
 ---

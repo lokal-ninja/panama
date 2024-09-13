@@ -1,5 +1,5 @@
 ---
 title: "Celulares Ashley"
 url: /la-chorrera/celulares-ashley/
-shop: Handy
+shop: teléfono móvil
 ---

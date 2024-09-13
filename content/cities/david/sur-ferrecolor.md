@@ -1,5 +1,5 @@
 ---
 title: "Sur Ferrecolor"
 url: /david/sur-ferrecolor/
-shop: Farben
+shop: pintura
 ---

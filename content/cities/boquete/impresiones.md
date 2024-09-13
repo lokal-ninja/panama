@@ -1,5 +1,5 @@
 ---
 title: "Impresiones"
 url: /boquete/impresiones/
-shop: Computer
+shop: ordenador
 ---

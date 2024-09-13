@@ -1,5 +1,5 @@
 ---
 title: "Spec S"
 url: /la-chorrera/spec-s/
-shop: Autoteile
+shop: piezas de automóviles
 ---

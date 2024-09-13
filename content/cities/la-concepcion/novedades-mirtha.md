@@ -1,5 +1,5 @@
 ---
 title: "Novedades Mirtha"
 url: /la-concepcion/novedades-mirtha/
-shop: Andenken
+shop: regalo
 ---

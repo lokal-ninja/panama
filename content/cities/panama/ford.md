@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /panama/ford/
-shop: Autohaus
+shop: coche
 ---

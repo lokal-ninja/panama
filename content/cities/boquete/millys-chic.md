@@ -1,5 +1,5 @@
 ---
 title: "Milly's Chic"
 url: /boquete/millys-chic/
-shop: Friseur
+shop: peluquería
 ---

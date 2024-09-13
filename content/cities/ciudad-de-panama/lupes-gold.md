@@ -1,5 +1,5 @@
 ---
 title: "Lupes Gold"
 url: /ciudad-de-panama/lupes-gold/
-shop: Kosmetik
+shop: cosméticos
 ---

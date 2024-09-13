@@ -1,5 +1,5 @@
 ---
 title: "Salón"
 url: /david/salon/
-shop: Friseur
+shop: peluquería
 ---

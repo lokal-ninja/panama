@@ -1,5 +1,5 @@
 ---
 title: "Yemaya"
 url: /santiago-de-veraguas/yemaya/
-shop: Kramladen
+shop: tienda de variedades
 ---

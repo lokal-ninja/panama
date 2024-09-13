@@ -1,5 +1,5 @@
 ---
 title: "Servicio De Gruas Towing"
 url: /david-sur/servicio-de-gruas-towing/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

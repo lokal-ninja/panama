@@ -1,5 +1,5 @@
 ---
 title: "Pemco"
 url: /san-francisco/pemco/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Piscinas Superiores"
 url: /ciudad-de-panama/piscinas-superiores/
-shop: Allgemein
+shop: general
 ---

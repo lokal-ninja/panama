@@ -1,5 +1,5 @@
 ---
 title: "Romero"
 url: /david/romero/
-shop: Supermarkt
+shop: supermercado
 ---

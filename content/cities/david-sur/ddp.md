@@ -1,5 +1,5 @@
 ---
 title: "DDP"
 url: /david-sur/ddp/
-shop: Warenhaus
+shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mirage"
 url: /panama/mirage/
-shop: Schuhe
+shop: zapatos
 ---

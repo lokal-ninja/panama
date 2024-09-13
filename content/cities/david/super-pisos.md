@@ -1,5 +1,5 @@
 ---
 title: "Super Pisos"
 url: /david/super-pisos/
-shop: Eisenwaren
+shop: hardware
 ---

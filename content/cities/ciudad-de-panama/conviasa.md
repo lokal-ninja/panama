@@ -1,5 +1,5 @@
 ---
 title: "Conviasa"
 url: /ciudad-de-panama/conviasa/
-shop: Reisebüro
+shop: agencia de viajes
 ---

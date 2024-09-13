@@ -1,5 +1,5 @@
 ---
 title: "Supermercados Rey"
 url: /la-chorrera/supermercados-rey/
-shop: Supermarkt
+shop: supermercado
 ---

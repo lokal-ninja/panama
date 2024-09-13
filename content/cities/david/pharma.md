@@ -1,5 +1,5 @@
 ---
 title: "pharma"
 url: /david/pharma/
-shop: Lebensmittel
+shop: comodidad
 ---

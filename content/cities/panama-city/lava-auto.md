@@ -1,5 +1,5 @@
 ---
 title: "Lava Auto"
 url: /panama-city/lava-auto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

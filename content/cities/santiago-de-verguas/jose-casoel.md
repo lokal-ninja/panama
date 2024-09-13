@@ -1,5 +1,5 @@
 ---
 title: "Jose Casoel"
 url: /santiago-de-verguas/jose-casoel/
-shop: Kramladen
+shop: tienda de variedades
 ---

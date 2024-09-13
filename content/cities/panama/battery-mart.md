@@ -1,5 +1,5 @@
 ---
 title: "Battery Mart"
 url: /panama/battery-mart/
-shop: Autoteile
+shop: piezas de automóviles
 ---

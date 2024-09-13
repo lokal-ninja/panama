@@ -1,5 +1,5 @@
 ---
 title: "Novo Kids"
 url: /panama/novo-kids/
-shop: Kleidung
+shop: ropa
 ---

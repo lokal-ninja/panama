@@ -1,5 +1,5 @@
 ---
 title: "Plaza Cristobol"
 url: /colon/plaza-cristobol/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lesa"
 url: /santiago-de-veraguas/lesa/
-shop: Kramladen
+shop: tienda de variedades
 ---

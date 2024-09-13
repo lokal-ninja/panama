@@ -1,5 +1,5 @@
 ---
 title: "Mármol a Tu Medida"
 url: /coronado/marmol-a-tu-medida/
-shop: Allgemein
+shop: general
 ---

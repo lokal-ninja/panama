@@ -1,5 +1,5 @@
 ---
 title: "Tecnomax"
 url: /david/tecnomax/
-shop: Autoteile
+shop: piezas de automóviles
 ---

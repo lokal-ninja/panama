@@ -1,5 +1,5 @@
 ---
 title: "Bendna"
 url: /dolega/bendna/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Electronica Hong Kong"
 url: /david/electronica-hong-kong/
-shop: Elektronik
+shop: electrónica
 ---

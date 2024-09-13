@@ -1,5 +1,5 @@
 ---
 title: "Artesanías Carolina"
 url: /la-chorrera/artesanias-carolina/
-shop: Andenken
+shop: regalo
 ---

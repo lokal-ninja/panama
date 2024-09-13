@@ -1,5 +1,5 @@
 ---
 title: "Moreno"
 url: /santiago-de-veraguas/moreno/
-shop: Fisch
+shop: marisco
 ---

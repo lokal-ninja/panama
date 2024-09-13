@@ -1,5 +1,5 @@
 ---
 title: "Casa Olivia"
 url: /coronado/casa-olivia/
-shop: Allgemein
+shop: general
 ---

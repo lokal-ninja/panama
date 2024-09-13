@@ -1,5 +1,5 @@
 ---
 title: "Max"
 url: /colon/max/
-shop: Kleidung
+shop: ropa
 ---

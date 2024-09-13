@@ -1,5 +1,5 @@
 ---
 title: "Eco Moda"
 url: /santiago-de-veraguas/eco-moda/
-shop: Warenhaus
+shop: grandes almacenes
 ---

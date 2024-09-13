@@ -1,5 +1,5 @@
 ---
 title: "Outlet"
 url: /panama-city/outlet/
-shop: Kleidung
+shop: ropa
 ---

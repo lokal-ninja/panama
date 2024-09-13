@@ -1,5 +1,5 @@
 ---
 title: "Mercadito El Bombillo"
 url: /llano-grande/mercadito-el-bombillo/
-shop: Lebensmittel
+shop: comodidad
 ---

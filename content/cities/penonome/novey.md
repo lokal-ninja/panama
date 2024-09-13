@@ -1,5 +1,5 @@
 ---
 title: "Novey"
 url: /penonome/novey/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

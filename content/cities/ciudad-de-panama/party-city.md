@@ -1,5 +1,5 @@
 ---
 title: "Party City"
 url: /ciudad-de-panama/party-city/
-shop: Allgemein
+shop: general
 ---

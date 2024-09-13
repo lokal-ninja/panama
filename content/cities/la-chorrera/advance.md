@@ -1,5 +1,5 @@
 ---
 title: "Advance"
 url: /la-chorrera/advance/
-shop: Autoteile
+shop: piezas de automóviles
 ---

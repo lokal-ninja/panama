@@ -1,5 +1,5 @@
 ---
 title: "Agro Flores, S.A."
 url: /ciudad-de-panama/agro-flores-s-a/
-shop: Blumen
+shop: floristería
 ---

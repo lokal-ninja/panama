@@ -1,5 +1,5 @@
 ---
 title: "Best wash"
 url: /david-sur/best-wash/
-shop: Wäscherei
+shop: lavandería
 ---

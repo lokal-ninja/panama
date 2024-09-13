@@ -1,5 +1,5 @@
 ---
 title: "El Agricultor"
 url: /la-concepcion/el-agricultor/
-shop: Landwirtschaftlich
+shop: agraria
 ---

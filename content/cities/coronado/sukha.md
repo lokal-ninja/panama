@@ -1,5 +1,5 @@
 ---
 title: "Sukha"
 url: /coronado/sukha/
-shop: Allgemein
+shop: general
 ---

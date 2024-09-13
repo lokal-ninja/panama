@@ -1,5 +1,5 @@
 ---
 title: "Melamed"
 url: /santiago-de-veraguas/melamed/
-shop: Autoteile
+shop: piezas de automóviles
 ---

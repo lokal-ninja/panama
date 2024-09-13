@@ -1,5 +1,5 @@
 ---
 title: "Delta"
 url: /la-chorrera/delta/
-shop: Lebensmittel
+shop: comodidad
 ---

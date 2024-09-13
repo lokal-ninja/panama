@@ -1,5 +1,5 @@
 ---
 title: "Viajes España"
 url: /panama/viajes-espana/
-shop: Reisebüro
+shop: agencia de viajes
 ---

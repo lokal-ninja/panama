@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /la-concepcion/vodafone/
-shop: Handy
+shop: teléfono móvil
 ---

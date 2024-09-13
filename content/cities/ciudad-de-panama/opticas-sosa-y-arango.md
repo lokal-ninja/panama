@@ -1,5 +1,5 @@
 ---
 title: "Opticas Sosa y Arango"
 url: /ciudad-de-panama/opticas-sosa-y-arango/
-shop: Optiker
+shop: óptico
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nike"
 url: /panama/nike/
-shop: Kleidung
+shop: ropa
 ---

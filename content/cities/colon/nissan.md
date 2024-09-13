@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
 url: /colon/nissan/
-shop: Autohaus
+shop: coche
 ---

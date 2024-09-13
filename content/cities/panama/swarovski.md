@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
 url: /panama/swarovski/
-shop: Schmuck
+shop: joyería
 ---

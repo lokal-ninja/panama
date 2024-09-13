@@ -1,5 +1,5 @@
 ---
 title: "Comasa"
 url: /chame/comasa/
-shop: Eisenwaren
+shop: hardware
 ---
