@@ -1,11 +1,11 @@
 id: 387420960
-type: way
+type: node
 latitude: 8.43962
 longitude: -82.42209
 postcode: ""
 city: David
-street: "Avenida Francisco Clark"
-housenumber: 
+street: Avenida Francisco Clark
+housenumber: ""
 phone: "7741080"
 opening_hours: ""
-website: "https://electrysol.com/"
+website: https://electrysol.com/

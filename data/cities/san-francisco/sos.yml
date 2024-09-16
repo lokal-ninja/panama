@@ -1,11 +1,11 @@
 id: 382357462
-type: way
+type: node
 latitude: 8.99088
 longitude: -79.51088
 postcode: ""
 city: San Francisco
-street: "Calle 50"
-housenumber: 
+street: Calle 50
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

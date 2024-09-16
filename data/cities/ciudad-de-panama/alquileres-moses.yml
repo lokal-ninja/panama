@@ -1,11 +1,11 @@
 id: 387009649
-type: way
+type: node
 latitude: 8.9347
 longitude: -79.5454
 postcode: ""
 city: Ciudad de Panama
-street: "Avenida Amador"
-housenumber: 
+street: Avenida Amador
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 07:30-20:00"
+opening_hours: Mo-Sa 08:00-20:00; Su 07:30-20:00
 website: ""

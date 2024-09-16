@@ -1,11 +1,11 @@
 id: 300879341
-type: way
+type: node
 latitude: 8.98193
 longitude: -79.52719
 postcode: ""
 city: Panamá
-street: "Vía España"
-housenumber: 
+street: Vía España
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 09:30-19:30"
-website: "https://www.felix.com.pa/"
+opening_hours: Mo-Su 09:30-19:30
+website: https://www.felix.com.pa/

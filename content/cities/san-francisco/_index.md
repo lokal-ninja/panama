@@ -1,6 +1,6 @@
 ---
 title: San Francisco
 url: /san-francisco/
-latitude: 8.994
-longitude: -79.509
+latitude: 8.245
+longitude: -80.973
 ---

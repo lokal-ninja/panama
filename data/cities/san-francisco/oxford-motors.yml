@@ -1,11 +1,11 @@
 id: 385344849
-type: way
+type: node
 latitude: 8.99369
 longitude: -79.5031
 postcode: ""
 city: San Francisco
-street: "Calle 76 Este"
-housenumber: 
+street: Calle 76 Este
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

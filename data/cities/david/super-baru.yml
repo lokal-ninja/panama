@@ -1,11 +1,11 @@
 id: 390262075
-type: way
+type: node
 latitude: 8.43381
 longitude: -82.42936
 postcode: ""
 city: David
-street: "Calle D Norte"
-housenumber: 2
+street: Calle D Norte
+housenumber: "2"
 phone: ""
-opening_hours: "PH,Mo-Su 07:00-21:00"
+opening_hours: PH,Mo-Su 07:00-21:00
 website: ""

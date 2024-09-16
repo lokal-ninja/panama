@@ -1,11 +1,11 @@
 id: 382349768
-type: way
+type: node
 latitude: 8.9908
 longitude: -79.51331
 postcode: ""
 city: San Francisco
-street: "Calle 64 Este"
-housenumber: 
+street: Calle 64 Este
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""
