@@ -1,6 +1,6 @@
 ---
 title: Omar Torrijos
 url: /omar-torrijos/
-latitude: 9.053
-longitude: -79.515
+latitude: 9.046
+longitude: -79.507
 ---

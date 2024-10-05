@@ -1,5 +1,5 @@
 ---
 title: "Boulevard Plaza"
-url: /ciudad-de-panama/boulevard-plaza/
+url: /ancon/boulevard-plaza/
 shop: centro comercial
 ---
