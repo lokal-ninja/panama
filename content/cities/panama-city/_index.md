@@ -1,6 +1,6 @@
 ---
 title: Panama City
 url: /panama-city/
-latitude: 9.012
-longitude: -79.51
+latitude: 9.016
+longitude: -79.467
 ---
