@@ -1,6 +1,6 @@
 ---
 title: Dolega
 url: /dolega/
-latitude: 8.565
-longitude: -82.415
+latitude: 8.563
+longitude: -82.412
 ---
