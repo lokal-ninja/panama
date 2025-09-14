@@ -1,5 +1,5 @@
 ---
 title: "La Riviera"
 url: /panama/la-riviera-av-domingo-diaz/
-shop: electrónica
+shop: general
 ---
