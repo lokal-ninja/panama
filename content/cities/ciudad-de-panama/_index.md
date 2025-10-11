@@ -1,6 +1,6 @@
 ---
-title: Ciudad de Panama
+title: Ciudad de Panamá
 url: /ciudad-de-panama/
-latitude: 9.041
-longitude: -79.528
+latitude: 8.989
+longitude: -79.519
 ---
