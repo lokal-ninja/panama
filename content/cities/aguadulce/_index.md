@@ -1,6 +1,6 @@
 ---
 title: Aguadulce
 url: /aguadulce/
-latitude: 8.241
-longitude: -80.54
+latitude: 8.246
+longitude: -80.541
 ---
