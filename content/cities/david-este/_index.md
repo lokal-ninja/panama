@@ -1,6 +1,6 @@
 ---
 title: David Este
 url: /david-este/
-latitude: 8.395
-longitude: -82.425
+latitude: 8.413
+longitude: -82.426
 ---
