@@ -1,5 +1,5 @@
 ---
 title: "Metro X"
 url: /panama-city/metro-x/
-shop: general
+shop: farmacia
 ---
