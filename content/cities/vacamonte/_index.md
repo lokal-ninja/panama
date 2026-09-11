@@ -1,6 +1,6 @@
 ---
 title: Vacamonte
 url: /vacamonte/
-latitude: 8.915
-longitude: -79.706
+latitude: 8.907
+longitude: -79.687
 ---
