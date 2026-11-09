@@ -1,6 +1,6 @@
 ---
 title: Volcán
 url: /volcan/
-latitude: 8.776
-longitude: -82.641
+latitude: 8.781
+longitude: -82.639
 ---
